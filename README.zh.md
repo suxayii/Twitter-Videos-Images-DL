@@ -19,6 +19,7 @@
 
 ## 快捷方式状态
 - 正常可用 ✅
-
+## 如何购买
+- [点击即可购买](https://buymeacoffee.com/suxia/e/301327)
 ## 使用方法
 - [点击查看](https://fengguo.pages.dev/pages/twitter-dl)
