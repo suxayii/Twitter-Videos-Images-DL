@@ -23,5 +23,8 @@
 ## Shortcut Status
 - Normally available ✅
 
+## How to buy
+- [Click to buy](https://buymeacoffee.com/suxia/e/301327)
+
 ## How to Use
 - [Click to view](https://fengguo.pages.dev/pages/twitter-dl)
