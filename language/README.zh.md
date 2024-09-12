@@ -1,6 +1,6 @@
 # 推特视频图片一键下载
 
-## Language / 语言
+## Language / 中文 / 日本語
 
 [English](../README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
