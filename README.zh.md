@@ -1,10 +1,9 @@
 # 推特视频图片一键下载
 ## 支持的系统版本
 - **iOS:** 15 ~ 17 及更高版本
-## 语言 / Language
+## Language / 语言
 
-[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
-[![中文](https://img.shields.io/badge/lang-中文-red)](README.zh.md)
+[English](README.md) | [中文](README.zh.md)
 
 ---
 ## 支持的设备
