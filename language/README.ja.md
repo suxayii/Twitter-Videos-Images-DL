@@ -1,6 +1,6 @@
 # ツイッターの動画・画像ワンクリックダウンロード
 
-## 言語 / Language
+## Language / 中文 / 日本語
 
 [English](../README.md) | [中文](README.zh.md) | [日本語](README.ja.md)
 
