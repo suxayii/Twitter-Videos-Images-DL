@@ -1,8 +1,8 @@
 # Twitter-Videos-Images-DL
 
-## Language / 中文 / 日本語
+## Language / 中文 / Язык /日本語
 
-[English](README.md) | [中文](language/README.zh.md) | [日本語](language/README.ja.md)
+[English](README.md) | [中文](language/README.zh.md) | [Русский](language/README.ru.md) |[日本語](language/README.ja.md)
 
 ---
 ## Supported Versions
