@@ -6,7 +6,7 @@
 
 ---
 ## Supported Versions
-- **iOS:** 15 ~ 17 and later versions
+- **iOS:** 15 ~ 18 and later versions
 
 ## Supported Models
 - **iPhone**
